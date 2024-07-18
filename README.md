@@ -41,7 +41,7 @@ The scraper generates various visualizations including:
 ![Example Visualization 1](https://github.com/FaizanAhmed16/Crypto-Web-Scraper/blob/main/Percent%20Change%20Crypto.JPG)
 
 ### Bitcoin Price Over Time
-![Example Visualization 2](https://github.com/yourusername/yourrepository/blob/main/images/visualization2.png)
+![Example Visualization 2](https://github.com/FaizanAhmed16/Crypto-Web-Scraper/blob/main/Bitcoin%20Price%20Over%20Time.JPG)
 
 ## 📬 Contact
 
