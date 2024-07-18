@@ -37,10 +37,10 @@ The scraper generates various visualizations including:
 - Market cap distributions
 - Volume comparisons
 
-### Example Visualization 1
-![Example Visualization 1](https://github.com/yourusername/yourrepository/blob/main/images/visualization1.png)
+### Crypto Percent Change
+![Example Visualization 1](https://github.com/FaizanAhmed16/Crypto-Web-Scraper/blob/main/Percent%20Change%20Crypto.JPG)
 
-### Example Visualization 2
+### Bitcoin Price Over Time
 ![Example Visualization 2](https://github.com/yourusername/yourrepository/blob/main/images/visualization2.png)
 
 ## 📬 Contact
