@@ -13,7 +13,7 @@ Welcome to the **Crypto Data Scraper** project! This tool is designed to automat
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/crypto-data-scraper.git
+   git clone https://github.com/FaizanAhmed16/Crypto-Web-Scraper.git
 
 2. **Install Dependencies**
 
