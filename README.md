@@ -29,21 +29,22 @@ Welcome to the **Crypto Data Scraper** project! This tool is designed to automat
    'X-CMC_PRO_API_KEY': os.getenv('CMC_PRO_API_KEY')
    ```
 
-##📊 Visualizations
+## 📊 Visualizations
 
 The scraper generates various visualizations including:
 
-Cryptocurrency price trends over time
-Market cap distributions
-Volume comparisons
+- Cryptocurrency price trends over time
+- Market cap distributions
+- Volume comparisons
 
-##📬 Contact
+### Example Visualization 1
+![Example Visualization 1](https://github.com/yourusername/yourrepository/blob/main/images/visualization1.png)
 
-For any questions or issues, feel free to reach out via email (faizan16ahmed@gmail.com) or open an issue on the GitHub repository.
+### Example Visualization 2
+![Example Visualization 2](https://github.com/yourusername/yourrepository/blob/main/images/visualization2.png)
+
+## 📬 Contact
+
+- For any questions or issues, feel free to reach out via email (faizan16ahmed@gmail.com) or open an issue on the GitHub repository.
 
 Happy scraping! 🥳
-
-
-
-
-
