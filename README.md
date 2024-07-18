@@ -29,7 +29,7 @@ Welcome to the **Crypto Data Scraper** project! This tool is designed to automat
    ```
 
 
-**📊 Visualizations**
+***📊 Visualizations***
 
 The scraper generates various visualizations including:
 
