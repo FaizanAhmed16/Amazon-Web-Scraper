@@ -20,8 +20,30 @@ Welcome to the **Crypto Data Scraper** project! This tool is designed to automat
   Ensure you have the necessary Python libraries installed:
   ```bash
   pip install pandas seaborn matplotlib requests
+   ```
+3. **API Key Setup**
 
-3. **API KEY**
+   To run the scraper, you'll need your own API key from CoinMarketCap. Replace the placeholder in CryptoWebScraper.ipynb with your API key:
+   ```bash
+   'X-CMC_PRO_API_KEY': os.getenv('CMC_PRO_API_KEY')
+   ```
+
+
+**📊 Visualizations**
+
+The scraper generates various visualizations including:
+
+Cryptocurrency price trends over time
+Market cap distributions
+Volume comparisons
+
+**📬 Contact**
+
+For any questions or issues, feel free to reach out via email (faizan16ahmed@gmail.com) or open an issue on the GitHub repository.
+
+Happy scraping! 🥳
+
+
 
 
 
